@@ -5,6 +5,9 @@
   "main": "index.js",
   "dependencies": {
   },
+  "publishConfig": {
+    "registry":"https://npm.pkg.github.com"
+  },
 
 
   "devDependencies": {},
