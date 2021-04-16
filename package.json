@@ -1,15 +1,19 @@
 {
-  "name": "validator",
+  "name": "oversimplified-express-validator",
   "version": "1.0.0",
-  "description": "",
+  "description": "An oversimplified validator with simple options and an even simpler documentation",
   "main": "index.js",
   "dependencies": {
   },
+
+
   "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "author": "shreshth_verma",
+  "license": "MIT",
+  "private": false,
+  "engineStrict": true
 }
