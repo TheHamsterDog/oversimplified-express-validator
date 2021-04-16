@@ -1,0 +1,7 @@
+Options:
+
+includes: type = array;
+equate type = any, but preferably string
+minLength type = number
+maxLength type = number
+email = boolean
