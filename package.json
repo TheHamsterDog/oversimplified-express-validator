@@ -1,5 +1,5 @@
 {
-  "name": "oversimplified-express-validator",
+  "name": "@shreshth_verma/oversimplified-express-validator",
   "version": "1.0.0",
   "description": "An oversimplified validator with simple options and an even simpler documentation",
   "main": "index.js",
@@ -7,10 +7,10 @@
   "dependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/TheHamsterDog/oversimplified-express-validator.git"
+    "url": "git://github.com/TheHamsterDog/oversimplified-express-validator.git"
   },
   "publishConfig": {
-    "registry": "https://npm.pkg.com/shreshth_verma/"
+    "registry":"https://npm.pkg.github.com"
   },
 
 
