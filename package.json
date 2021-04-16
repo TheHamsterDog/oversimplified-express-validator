@@ -1,5 +1,5 @@
 {
-  "name": "@shreshth_verma/oversimplified-express-validator",
+  "name": "@TheHamsterDog/oversimplified-express-validator",
   "version": "1.0.0",
   "description": "An oversimplified validator with simple options and an even simpler documentation",
   "main": "index.js",
