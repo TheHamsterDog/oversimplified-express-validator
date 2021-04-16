@@ -10,7 +10,7 @@
     "url": "git://github.com/TheHamsterDog/oversimplified-express-validator.git"
   },
   "publishConfig": {
-    "registry":"https://npm.pkg.github.com"
+    "registry":"https://npm.pkg.com"
   },
 
 
