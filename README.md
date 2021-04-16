@@ -11,8 +11,8 @@ app.post('/', middleware([{name:"email", email:true}, {name:"password", minLengt
 })
 ```
 
-You have to provide an array, which is the form :- 
-``` [{name:"name-of-the-perimeter", ...validators}] ```
+You have to provide an array with objects that are of the form:- 
+``` {name:"name-of-the-perimeter", ...validators} ```
 These are the available validators:-
  
 | name      |  type                      |    
