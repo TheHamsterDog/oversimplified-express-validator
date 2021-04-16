@@ -7,11 +7,11 @@ like :-
 ``` app.post('/', middleware([{name:"email", email:true}, {name:"password", minLength: 8}, {name:"phoneNumber", minLength:10, maxLength:10}, {name:"name", equate:"MrBigFox"}, {name:'processor', includes:["AMD", "Ryzen"], minLength:8, maxLength:20}]), async (req, res) => {
     res.send("posted")
     console.log(req.body);
-})```
+}) ```
 
 
 You have to provide an array, which is the form :- 
-```[{name:"name-of-the-perimeter", ...validators}]```
+``` [{name:"name-of-the-perimeter", ...validators}] ```
 These are the available validators:-
  
 | name      |  type                      |    
