@@ -3,13 +3,14 @@
   "version": "1.0.0",
   "description": "An oversimplified validator with simple options and an even simpler documentation",
   "main": "index.js",
+  "bin":"index.js",
   "dependencies": {
   },
   "repository":{ 
     "type": "git",
     "url":"git+https://github.com/TheHamsterDog/oversimplified-express-validator.git"},
   "publishConfig": {
-    "registry":"https://npm.pkg.github.com"
+    "registry":"https://npm.pkg.github.com/shreshth_verma"
   },
 
 
