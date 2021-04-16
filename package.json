@@ -7,7 +7,7 @@
   },
   "repository":{ 
     "type": "git",
-    "url":"https://github.com/TheHamsterDog/oversimplified-express-validator.git"},
+    "url":"git+https://github.com/TheHamsterDog/oversimplified-express-validator.git"},
   "publishConfig": {
     "registry":"https://npm.pkg.github.com"
   },
