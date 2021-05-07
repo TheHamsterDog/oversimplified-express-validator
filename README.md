@@ -27,4 +27,4 @@ These are the available validators:-
 
 #Links
 
-[NPM Module]: https://www.npmjs.com/package/oversimplified-express-validator
+[NPM Module](https://www.npmjs.com/package/oversimplified-express-validator)
