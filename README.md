@@ -18,10 +18,9 @@ These are the available validators:-
  
 | name      |  type                      |    description                                                                                     | example
 | ----------|:--------------------------:|:--------------------------:|:--------------------------:|
-| includes  |  array                     | It checks if the an array of items exist in the given request body data                            | ["Ryzen", "Amd"] |
+| includes  |  array                     | It checks if the array of items exist in the given request body data                            | ["Ryzen", "Amd"] |
 | equate    |  any, but preferably string| It checks if the provided data equates with the given request body data                            | "MrBigFox" |
 | minLength |  number                    | It checks if the given request body data's length is at least equal to the given number            | 8 |
 | maxLength |  number                    | It checks if the given request body data's length is at most equal to the given number             | 8 |
-| email     |  boolean                   | It checks if the given request body data is of the type "email", ie. of the form example@email.com | true |
 | email     |  boolean                   | It checks if the given request body data is of the type "email", ie. of the form example@email.com | true |
 
