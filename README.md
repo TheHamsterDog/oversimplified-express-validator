@@ -25,6 +25,6 @@ These are the available validators:-
 | maxLength |  number                    | It checks if the given request body data's length is at most equal to the given number             | 8 |
 | email     |  boolean                   | It checks if the given request body data is of the type "email", ie. of the form example@email.com | true |
 
-#Links
+# Links
 
 [NPM Module](https://www.npmjs.com/package/oversimplified-express-validator)
